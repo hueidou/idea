@@ -1,5 +1,15 @@
 # idea
 
+## 通知Hub
+
+* Notification Hub
+* 主要解决问题：对接各个系统的软件，比如Slack等，需要一个IM软件，有的团队不一定需要切换IM，但需要一个集中的通知中心。
+* 这里是专做一个通知Hub，集成各个第三方系统，用户可以新增通知，在通知集成列表里订阅。
+* 集成参考：https://bearychat.com/integrations
+* 集成参考：https://slack.com/intl/zh-hk/integrations
+* 主要形式：浏览器通知、浏览器通知网页（通知消息、通知集成列表、订阅）
+* 次要：机器人，发送消息，DevOps。主要解决单项的消息传递问题，使消息双向，或对其他用户广播。
+
 ## 内容分享系统
 
 * [Mozilla的Readability](https://github.com/mozilla/readability)
